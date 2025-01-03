@@ -117,7 +117,8 @@ FULL ADDER
 FULL SUBTRACTOR
 
 
-![image](https://github.com/user-attachments/assets/87d6810a-2e2b-40de-90f9-b48aea67ba52)
+![image](https://github.com/user-attachments/assets/9c77cde1-baca-4608-9f86-d02e8b271d3e)
+
 
 
 **Timing Waveform**
